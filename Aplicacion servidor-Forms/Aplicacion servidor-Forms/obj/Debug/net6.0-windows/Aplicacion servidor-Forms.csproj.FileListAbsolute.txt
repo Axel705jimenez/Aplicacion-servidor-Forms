@@ -1,0 +1,16 @@
+C:\Users\jimen\source\repos\Aplicacion servidor-Forms\Aplicacion servidor-Forms\bin\Debug\net6.0-windows\Aplicacion servidor-Forms.exe
+C:\Users\jimen\source\repos\Aplicacion servidor-Forms\Aplicacion servidor-Forms\bin\Debug\net6.0-windows\Aplicacion servidor-Forms.deps.json
+C:\Users\jimen\source\repos\Aplicacion servidor-Forms\Aplicacion servidor-Forms\bin\Debug\net6.0-windows\Aplicacion servidor-Forms.runtimeconfig.json
+C:\Users\jimen\source\repos\Aplicacion servidor-Forms\Aplicacion servidor-Forms\bin\Debug\net6.0-windows\Aplicacion servidor-Forms.dll
+C:\Users\jimen\source\repos\Aplicacion servidor-Forms\Aplicacion servidor-Forms\bin\Debug\net6.0-windows\Aplicacion servidor-Forms.pdb
+C:\Users\jimen\source\repos\Aplicacion servidor-Forms\Aplicacion servidor-Forms\obj\Debug\net6.0-windows\Aplicacion_servidor_Forms.Form1.resources
+C:\Users\jimen\source\repos\Aplicacion servidor-Forms\Aplicacion servidor-Forms\obj\Debug\net6.0-windows\Aplicacion servidor-Forms.csproj.GenerateResource.cache
+C:\Users\jimen\source\repos\Aplicacion servidor-Forms\Aplicacion servidor-Forms\obj\Debug\net6.0-windows\Aplicacion servidor-Forms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jimen\source\repos\Aplicacion servidor-Forms\Aplicacion servidor-Forms\obj\Debug\net6.0-windows\Aplicacion servidor-Forms.AssemblyInfoInputs.cache
+C:\Users\jimen\source\repos\Aplicacion servidor-Forms\Aplicacion servidor-Forms\obj\Debug\net6.0-windows\Aplicacion servidor-Forms.AssemblyInfo.cs
+C:\Users\jimen\source\repos\Aplicacion servidor-Forms\Aplicacion servidor-Forms\obj\Debug\net6.0-windows\Aplicacion servidor-Forms.csproj.CoreCompileInputs.cache
+C:\Users\jimen\source\repos\Aplicacion servidor-Forms\Aplicacion servidor-Forms\obj\Debug\net6.0-windows\Aplicacion servidor-Forms.dll
+C:\Users\jimen\source\repos\Aplicacion servidor-Forms\Aplicacion servidor-Forms\obj\Debug\net6.0-windows\refint\Aplicacion servidor-Forms.dll
+C:\Users\jimen\source\repos\Aplicacion servidor-Forms\Aplicacion servidor-Forms\obj\Debug\net6.0-windows\Aplicacion servidor-Forms.pdb
+C:\Users\jimen\source\repos\Aplicacion servidor-Forms\Aplicacion servidor-Forms\obj\Debug\net6.0-windows\Aplicacion servidor-Forms.genruntimeconfig.cache
+C:\Users\jimen\source\repos\Aplicacion servidor-Forms\Aplicacion servidor-Forms\obj\Debug\net6.0-windows\ref\Aplicacion servidor-Forms.dll
